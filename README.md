@@ -2,4 +2,6 @@
 
 Runs on Python3.
 
-Update April 2018: [So long.](ban.png)
+Update April 2018: So long.
+
+![Farewell.](ban.png)
